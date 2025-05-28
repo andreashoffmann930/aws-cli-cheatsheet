@@ -1,0 +1,5 @@
+[project]
+name = "aws-cli-cheatsheet"
+version = "0.1.0"
+description = "☁️ aws CLI + jq = Make life easier"
+requires-python = ">=3.10"
