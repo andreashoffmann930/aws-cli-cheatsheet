@@ -9,3 +9,4 @@ Notes and usage details for aws-cli-cheatsheet.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
