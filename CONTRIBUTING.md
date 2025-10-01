@@ -10,3 +10,4 @@ Notes and usage details for aws-cli-cheatsheet.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
