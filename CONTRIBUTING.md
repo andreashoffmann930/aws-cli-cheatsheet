@@ -20,3 +20,4 @@ Notes and usage details for aws-cli-cheatsheet.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
