@@ -28,3 +28,4 @@ Notes and usage details for aws-cli-cheatsheet.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
